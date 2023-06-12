@@ -35,5 +35,5 @@ def quarter_of(month):
    print('Такого месяца нет')  
 
 a = int(input('Введите номер месяца: '))
-quarter_of(a)
-
+b = quarter_of(a)
+print(b)
